@@ -14,6 +14,7 @@
 
 
 #SAMPLE MOCK-UP PAGE
+
 HEADER
 <img width="1882" height="800" alt="Screenshot 2025-11-19 215031" src="https://github.com/user-attachments/assets/b1eaef58-bd87-4f29-b6fc-8869308d4ad5" />
 
